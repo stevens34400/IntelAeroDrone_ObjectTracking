@@ -1,5 +1,5 @@
 # Flight Control System for Autonomous Drone
-This project utilizes Intel's Ready To Fly (RTF) Drone kit to track a moving object autonomously. The drone marks red objects in its camera view using an image processing algorithm and maneuvers with the navigation control algorithm. Further information regarding hardware can be found below. 
+This project utilizes Intel's Ready To Fly (RTF) Drone kit to track a moving object autonomously. The drone marks red objects in its camera view using an image processing algorithm and maneuvers with the navigation control algorithm. Further information regarding design of algorithms and hardware can be found below. 
 
 ### Top Level Software Flowchart
 <p align="center">
