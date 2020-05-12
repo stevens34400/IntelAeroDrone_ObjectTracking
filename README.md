@@ -17,7 +17,7 @@ This project utilizes Intel's Ready To Fly (RTF) Drone kit to track a moving obj
 <p align="center">
   <img width="800" height="500" src="https://github.com/stevens34400/IntelAeroDrone_ObjectTracking/blob/master/images/regular%20frame.png">
 </p>
-Sample frame with no adjustments
+Sample frame with no adjustments.
 
 ### Median Blur
 <p align="center">
