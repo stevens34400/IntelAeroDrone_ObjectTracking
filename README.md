@@ -17,21 +17,25 @@ This project utilizes Intel's Ready To Fly (RTF) Drone kit to track a moving obj
 <p align="center">
   <img width="800" height="500" src="https://github.com/stevens34400/IntelAeroDrone_ObjectTracking/blob/master/images/regular%20frame.png">
 </p>
+Sample frame with no adjustments
 
 ### Median Blur
 <p align="center">
   <img width="800" height="500" src="https://github.com/stevens34400/IntelAeroDrone_ObjectTracking/blob/master/images/Median%20Blur.png">
 </p>
+Median blur applied on sample frame.
 
 ### Masking, Eroding and Dilating
 <p align="center">
   <img width="800" height="500" src="https://github.com/stevens34400/IntelAeroDrone_ObjectTracking/blob/master/images/Mask_Erosion_Dilation.png">
 </p>
+Masking of frame portraying white object as target object program should contour around.
 
 ### Contour and Centroid placement
 <p align="center">
   <img width="800" height="500" src="https://github.com/stevens34400/IntelAeroDrone_ObjectTracking/blob/master/images/Contour_Centroid.png">
 </p>
+Contour of masked frame and centroid placement based of contour lines generated. Will obtain and utilize x-y position of centroid for navigation control. 
 
 ## Navigation Control flowchart
 <p align="center">
